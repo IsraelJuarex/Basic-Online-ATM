@@ -1,6 +1,9 @@
 #  Basic ATM with DB connection
 
 Really basic ATM siimulator with a connection to an online DB
+Database used > Planetscale
+Programming Language > Java
+IDE > Intellij IDEA
 
 ## Screenshots
 
