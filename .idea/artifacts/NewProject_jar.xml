@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NewProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NewProject_jar</output-path>
+    <root id="archive" name="NewProject.jar">
+      <element id="module-output" name="CajeroAutomaticoBasededatosGUI" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-j-8.0" />
+    </root>
+  </artifact>
+</component>

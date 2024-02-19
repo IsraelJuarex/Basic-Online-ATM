@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-j-8.01">
+    <archive path="/Users/israel/Downloads/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar" />
+  </library>
+  <library name="mysql-connector-j-8.0">
+    <archive path="/Users/israel/Downloads/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar" />
+  </library>
+  <library name="apache.commons.text">
+    <archive path="/Users/israel/.m2/repository/org/apache/commons/commons-text/1.9/commons-text-1.9.jar" />
+    <archive path="/Users/israel/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar" />
+  </library>
+</eclipse-userlibraries>
+
